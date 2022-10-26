@@ -1,7 +1,2 @@
-aditya
-
-kumar
-nishad
-
-nishad
-kumar
+line1
+line2
